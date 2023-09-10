@@ -1,6 +1,6 @@
 # Snyk-Cloud-Demo
 
-This is a vulnerable by design repository for demonstrating Snyk Cloud. Do not deploy this in production
+This is a vulnerable by design repository for demonstrating Snyk Cloud. Do not deploy this in production.
 
 ## Deployment
 
